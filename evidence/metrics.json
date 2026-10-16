@@ -1,0 +1,13 @@
+{
+  "dataset": "SYNTHETIC frontal markers; not real-world accuracy",
+  "frames": 240,
+  "visible_frames": 200,
+  "measured_frames": 200,
+  "detection_rate": 1.0,
+  "distance_mae_m": 0.01019535029352634,
+  "offset_mae_m": 0.0009139274736802949,
+  "occluded_frames": 40,
+  "occluded_no_marker": 40,
+  "processing_median_ms": 3.33,
+  "processing_p95_ms": 3.89
+}
